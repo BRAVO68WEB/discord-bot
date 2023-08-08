@@ -46,7 +46,7 @@
         "pidusage": "^3.0.2",
         "play-dl": "^1.9.6",
         "redis": "^4.6.6",
-        "soundcloud-downloader": "^0.2.3",
+        "soundcloud-downloader": "^1.0.0",
         "string-progressbar": "^1.0.4",
         "string-similarity": "^4.0.4",
         "xml2js": "^0.6.0",
